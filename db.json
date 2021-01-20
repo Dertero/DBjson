@@ -1,4 +1,4 @@
-{"posts": [
+[
   {
     id: 1,
     name: 'Leanne Graham',
@@ -66,4 +66,3 @@
     email: 'Rey.capitan@mendoza.biz'
   }
 ];
-}
