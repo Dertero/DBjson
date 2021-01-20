@@ -1,4 +1,4 @@
-[
+{[
   {
     id: 1,
     name: 'Leanne Graham',
@@ -65,4 +65,4 @@
     username: 'hurlo',
     email: 'Rey.capitan@mendoza.biz'
   }
-];
+]};
