@@ -1,4 +1,4 @@
-export const Robots = [
+{"posts": [
   {
     id: 1,
     name: 'Leanne Graham',
@@ -66,3 +66,4 @@ export const Robots = [
     email: 'Rey.capitan@mendoza.biz'
   }
 ];
+}
